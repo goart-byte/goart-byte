@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @goart-byte
-- 👀 I’m interested in everything ...
-- 🌱 I’m currently learning everything ...
-- 💞️ I’m looking to collaborate on everything...
-- 📫 How to reach me,  I have collaborators ...
 
-<!---
-goart-byte/goart-byte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/62d23cae7b967b117999c887/1g8e8psrt';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
