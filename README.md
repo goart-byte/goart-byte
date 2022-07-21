@@ -1,14 +1,12 @@
 
-<!--Start of Tawk.to Script-->
-<script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/62d23cae7b967b117999c887/1g8e8psrt';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
-})();
-</script>
-<!--End of Tawk.to Script-->
+git status -s          //will show me that foo.java has changed
+
+git add foo.java     //will add it to my local repo
+
+git commit -m "my changes"      //commit to the local repo
+
+git tag "v1.1"       //create a tag
+
+git push --tags        //finally, move the local commit to the remote repo with the new tag. this will prompt for your password. if no tag is set as in step 4, then just
+
+git push
